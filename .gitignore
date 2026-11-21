@@ -1,0 +1,11 @@
+.env
+data/
+embeddings/
+arxiv-metadata-oai-snapshot.json
+arxiv.zip
+*.zip
+__pycache__/
+.venv/
+venv/
+.idea/
+.vscode/
